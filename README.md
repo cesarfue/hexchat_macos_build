@@ -5,7 +5,7 @@ If, like me, you cannot understand how to install Hexchat through Macports and y
 git clone https://github.com/cesarfue/hexchat_macos_build
 ```
 ```
-cd hexchat_macos_build && ./build.sh
+cd hexchat_macos_build && ./run.sh
 ```
 
 Now, go in the xQuartz settings->security tab, and verify that connections are authentified and networks clients authorized.
