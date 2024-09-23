@@ -1,4 +1,4 @@
-### Hexchat container for Macos
+# Hexchat container for Macos
 
 ## *This is a work in progress, there might be network issues*
 
